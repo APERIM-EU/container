@@ -1,2 +1,6 @@
 # Container
-Docker Container of WP3
+Docker containers of APERIM 
+
+For more information see:
+
+http://aperim.eu/
